@@ -1,5 +1,7 @@
 Pour la séparation avec HDBSCAN, on peut jouer sur deux paramètres :
 
+<img width="894" height="620" alt="image" src="https://github.com/user-attachments/assets/b9bc9e16-b32b-4f1a-9f2a-cdff9e2d2e19" />
+
 ### `min_cluster_size` :                                                                                                                 
                                                                                                                                       
   C'est le paramètre le plus important. Il définit la taille minimale qu'un groupe de points doit avoir pour être considéré comme un cluster plutôt que du bruit.                                                                                                        
