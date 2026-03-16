@@ -1,3 +1,9 @@
+Idées :
+- Essayer de connecter des amas par voxel tree et clusteriser par amas.
+- Réduire la taille de la box pour avoir une meilleure précision en densité sur HDBSCAN.
+
+------
+
 Pour la séparation avec HDBSCAN, on peut jouer sur deux paramètres :
 
 <img width="894" height="620" alt="image" src="https://github.com/user-attachments/assets/b9bc9e16-b32b-4f1a-9f2a-cdff9e2d2e19" />
